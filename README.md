@@ -9,6 +9,7 @@ Before running the project, make sure to install the necessary packages:
 
 ```bash
 npm install langchain @langchain/openai @langchain/anthropic
+npm install z3-solver
 ```
 
 ### 2. Configure API Keys
